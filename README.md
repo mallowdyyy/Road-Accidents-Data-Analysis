@@ -1,4 +1,4 @@
-##Road Accidents Data Analysis (2021–2022)
+#  Road Accidents Data Analysis (2021–2022)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -82,6 +82,9 @@ Top 3:
 
 ### Lighting and Location
 - More accidents occurred during **daylight** and in **urban areas**.
+  
+## Dashboard
+![Road Accident Data Analysis Dashboard](https://github.com/user-attachments/assets/e7e38b5f-5573-4aa6-a47a-0882c6bf7fed)
 
 ## Recommendations
 - Strengthen safety campaigns targeted at **car drivers** and **urban areas**.
@@ -96,4 +99,3 @@ The findings emphasize the need for focused efforts in **driver education**, **r
 ---
 
 Prepared by: **Angelika Gonzales**  
-📊 **Data Analysis and Visualization**
